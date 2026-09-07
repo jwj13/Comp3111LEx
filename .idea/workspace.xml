@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d9395ff-5704-48a8-9e63-18b9866ebc21" name="更改" comment="Add 2 print lines as report heading">
+    <list default="true" id="2d9395ff-5704-48a8-9e63-18b9866ebc21" name="更改" comment="add image to readme">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,9 @@
     "accountId": "dc83ed81-5f49-4aa7-837c-4477101f876c"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
@@ -103,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788778881451</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add image to readme">
+      <option name="closed" value="true" />
+      <created>1788779494717</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788779494717</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +134,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial commit for Comp3111LEx Project" />
     <MESSAGE value="Add 2 print lines as report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
+    <MESSAGE value="add image to readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add image to readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
