@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d9395ff-5704-48a8-9e63-18b9866ebc21" name="更改" comment="copy README.md">
+    <list default="true" id="2d9395ff-5704-48a8-9e63-18b9866ebc21" name="更改" comment="copy README.md and update image">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lab1/img.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Lab1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Lab1/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788780084259</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="copy README.md and update image">
+      <option name="closed" value="true" />
+      <created>1788780569932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788780569932</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,7 +154,8 @@
     <MESSAGE value="Add 2 print lines as report heading" />
     <MESSAGE value="add image to readme" />
     <MESSAGE value="copy README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="copy README.md" />
+    <MESSAGE value="copy README.md and update image" />
+    <option name="LAST_COMMIT_MESSAGE" value="copy README.md and update image" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
